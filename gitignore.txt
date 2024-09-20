@@ -1,0 +1,3 @@
+ffst.txt
+*.tmp
+bin/
